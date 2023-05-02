@@ -2,10 +2,38 @@
   "posts": [
     {
       "id": 1,
-      "title": "hello"
+      "title": "Roadster",
+      "description": "Men Pure Cotton T-shirt",
+      "price": "Rs.899",
+      "thumbnail": "https://cdn.shopify.com/s/files/1/2360/8505/products/Round-Neck-Casual-Men_s-T-Shirt-in-Red_860x.jpg?v=1559850342"
+    },
+    {
+      "id": 1,
+      "title": "Allen Solly",
+      "description": "Men Pure Cotton T-shirt",
+      "price": "Rs.1999",
+      "thumbnail": "https://www.cottonheritage.com/catImg/WAMHIRES/MC1047505.jpg"
+    },
+    {
+      "id": 1,
+      "title": "Duke",
+      "description": "Men Pure Cotton T-shirt",
+      "price": "Rs.675",
+      "thumbnail": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ffamilysta.com%2Fen%2Fwp-content%2Fuploads%2Fsites%2F28%2F2020%2F09%2F1099002M-mens-leopard-tshirt-cool-matching-print-familysta.jpg&f=1&nofb=1&ipt=7192d7eafc6f9a138732c68afe3d8b572ac7435107cd0c006d0cf1bc8e7c81a7&ipo=images"
+    },
+    {
+      "id": 1,
+      "title": "Levi's",
+      "description": "Men Pure Cotton Jeans",
+      "price": "Rs.899",
+      "thumbnail": "https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fd3d71ba2asa5oz.cloudfront.net%2F50000171%2Fimages%2Fac1160-blue-1.jpg&f=1&nofb=1&ipt=12b39be5d0374afa4b4ff984c9d297164a6f52971c3989a12345464526e42a16&ipo=images"
+    },
+    {
+      "id": 1,
+      "title": "Nike",
+      "description": "Sweatshirt",
+      "price": "Rs.3899",
+      "thumbnail": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fimage.sportsmansguide.com%2Fadimgs%2Fl%2F2%2F228226i6_ts.jpg&f=1&nofb=1&ipt=571a288ca191d5f9bd4e9eb1e1910b29471774a4624a6eeb681c7fb44f47d8e1&ipo=images"
     }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+  ]
 }
